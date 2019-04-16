@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="img1">300dp</dimen>
+    <dimen name="ts4">12dp</dimen>
+    <dimen name="ts8">16dp</dimen>
+    <dimen name="ts16">32dp</dimen>
+    <dimen name="actionBar">96dp</dimen>
+    <dimen name="sp16">32sp</dimen>
+</resources>
